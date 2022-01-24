@@ -1,2 +1,2 @@
 # Parkinson_Classification
-Deep learning networks for Classification Parjinson and Healthy Controls
+Deep learning Networks and Machine Learning Classifiers for Classification of Parkinson and Healthy Controls Using Recorded Vowels 
